@@ -6,7 +6,7 @@ This project implements a Grocery Booking API with roles for Admin and User. Use
 ## Installation
 
 1. Clone the repository:
-  ```git clone https://github.com/your-username/grocery-booking-api.git```
+  ```git clone https://github.com/sabiqthottoly/grocery-booking-api.git```
 2. Navigate to the project directory:
   ```cd grocery-booking-api```
 3. Install dependencies:
